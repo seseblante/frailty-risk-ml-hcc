@@ -5,6 +5,8 @@ This repository contains the implementation and methodology for the research stu
 > **"Machine Learning Models with Explainable AI for Preoperative Frailty Risk Prediction in Elderly Patients with Hepatocellular Carcinoma"**
 > Published in IEEE Xplore.
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c12f42de-e194-4325-8dd2-72b96c7406ec" />
+
 ---
 
 ## Overview
